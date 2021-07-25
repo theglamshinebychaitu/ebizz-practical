@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "532200994938",
+    "project_id": "practical-ebizz",
+    "storage_bucket": "practical-ebizz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532200994938:android:022e3a27d452c6c4e863c3",
+        "android_client_info": {
+          "package_name": "com.codecuisine.practical_assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532200994938-pi5qollmbshv2092pcv3ivhuotbmhhog.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codecuisine.practical_assignment",
+            "certificate_hash": "169b4244c23fc5f62916d19d4958a31a62654cd9"
+          }
+        },
+        {
+          "client_id": "532200994938-k8csgg3t19ntcb65lt8mbuhfnih7dl5u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCq2UmhQRdRbAbfIzPw4e2rBd7u_C9hJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "532200994938-k8csgg3t19ntcb65lt8mbuhfnih7dl5u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
